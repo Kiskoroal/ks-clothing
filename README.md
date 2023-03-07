@@ -40,6 +40,7 @@ Clothing for QB-Core Framework :dress:
 - Job Locker Rooms (Configurable Outfit Presets)
 - Saveable Outfits
 - /hat, /glasses, /mask (See the commands section below)
+- Now, It has disabled the option to modify the face in a clotheshop
 
 ### Commands
 - /skin (Admin Only) - Opens the clothing menu
