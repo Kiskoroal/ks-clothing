@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'QB-Clothing'
+description 'KS-Clothing'
 version '1.2.0'
 
 ui_page 'html/index.html'
